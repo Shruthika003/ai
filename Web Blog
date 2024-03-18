@@ -1,0 +1,5 @@
+<!-- Title Tag -->
+<title>My Awesome Blog Post</title>
+
+<!-- Content with Anchor Tag -->
+<p>Welcome to my blog post! Check out my <a href="https://example.com">website</a> for more content.</p>
